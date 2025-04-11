@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-native-firebase/analytics": "^21.13.0",
+    "@react-native-firebase/app": "^21.13.0",
+    "@reduxjs/toolkit": "^2.6.1",
+    "@testing-library/react-native": "^13.2.0",
+    "axios": "^1.8.4",
+    "formik": "^2.4.6",
+    "react-native-config": "^1.5.5",
+    "react-native-gesture-handler": "^2.25.0",
+    "react-native-image-picker": "^8.2.0",
+    "react-native-reanimated": "^3.17.3",
+    "react-native-safe-area-context": "^5.3.0",
+    "react-native-screens": "^4.10.0",
+    "react-native-vector-icons": "^10.2.0",
+    "react-navigation": "^4.4.4",
+    "react-navigation-stack": "^2.10.4",
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1",
+    "styled-components": "^6.1.17",
+    "yup": "^1.6.1"
+  }
+}
